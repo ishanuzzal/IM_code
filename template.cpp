@@ -47,6 +47,10 @@ int a[N];
 
 void solve() {
   int i, j, n, m;
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    #endif 
 }
 
 int main() {
