@@ -45,6 +45,7 @@ const int N = 3e5, M = N;
 vi g[N];
 int a[N];
 
+
 void solve() {
   int i, j, n, m;
     #ifndef ONLINE_JUDGE
